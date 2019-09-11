@@ -1,0 +1,57 @@
+
+ul.my-list-style {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #C0C0C0;
+}
+li.my-list-style {
+	float: center;
+}
+li a {
+	display: block;
+	color: white;
+	text-align:center;
+	padding: 14px 16px;
+	text-decoration: none
+}
+li a:hover {
+	background-color: #111;
+}
+	
+/* Style the header */
+header {
+	background-color: black;
+	padding: 30px;
+	text-align: center;
+	font-size: 55px;
+	color: white;
+}
+
+body{
+	background-color: gray;
+}
+
+h1{
+	color:white;
+text-align: center;
+font: 40px arial, sans-serif;
+}
+
+h2{
+	color:brown;
+}
+div {
+  background-color: lightgrey;
+  width: 250px;
+  border: 15px tan;
+  padding: 50px;
+  margin: 20px;
+}
+body {
+	Margin: 0;
+}
+
+
+
